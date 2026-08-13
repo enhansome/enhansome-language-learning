@@ -1,0 +1,831 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Language Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ebook-reader-dict",
+          "description": "14 monolingual dictionaries extracted from Wiktionary in several languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:53:50Z",
+            "owner": "reader-dict",
+            "repo": "monolingual",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dictionariez",
+          "description": "A browser extension to look up words on web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T20:40:32Z",
+            "owner": "pnlpal",
+            "repo": "dictionariez",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiktionary-Dictionaries",
+          "description": "Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-19T11:06:20Z",
+            "owner": "Vuizur",
+            "repo": "Wiktionary-Dictionaries",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wikdict-gen",
+          "description": "For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T17:02:36Z",
+            "owner": "karlb",
+            "repo": "wikdict-gen",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Dictionaries"
+    },
+    {
+      "description": "These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lute",
+          "description": "Learning Using Texts (Lute). A partial rewrite of lwt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T23:12:31Z",
+            "owner": "LuteOrg",
+            "repo": "lute-v3",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwt",
+          "description": "A self-hosted version (requires a bit of effort to get running) with a long history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T19:10:21Z",
+            "owner": "HugoFara",
+            "repo": "lwt",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trunk",
+          "description": "Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-10-13T18:27:28Z",
+            "owner": "teesloane",
+            "repo": "trunk",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Learning With Texts (LinQ-like)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KOReader",
+          "description": "An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T11:13:13Z",
+            "owner": "koreader",
+            "repo": "koreader",
+            "stars": 28956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordDumb",
+          "description": "A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:42:18Z",
+            "owner": "xxyzz",
+            "repo": "WordDumb",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluentcards",
+          "description": "A website that allows you to turn your kindle lookups into Anki flashcards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-11T18:12:00Z",
+            "owner": "katspaugh",
+            "repo": "fluentcards",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tachiyomi",
+          "description": "An manga reader that can fetch manga in many different languages.",
+          "children": []
+        }
+      ],
+      "title": "Reader Programs or extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnkiDroid",
+          "description": "The free Anki Android client for the most popular flashcard software - the desktop version is free as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T10:08:27Z",
+            "owner": "ankidroid",
+            "repo": "Anki-Android",
+            "stars": 11542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSRS4Anki",
+          "description": "An optimized spaced repetition algorithm that should minimize review time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T03:04:44Z",
+            "owner": "open-spaced-repetition",
+            "repo": "fsrs4anki",
+            "stars": 4040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vocabsieve",
+          "description": "A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T01:33:56Z",
+            "owner": "FreeLanguageTools",
+            "repo": "vocabsieve",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vocage",
+          "description": "A spaced repetition program in the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-06T20:44:02Z",
+            "owner": "proycon",
+            "repo": "vocage",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ankigenbot",
+          "description": "A telegram bot that automatically creates Anki flashcards for words you send to it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-24T16:46:50Z",
+            "owner": "damaru2",
+            "repo": "ankigenbot",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tatoeba-to-anki",
+          "description": "A project that allows you to generate Anki decks with translations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T17:32:26Z",
+            "owner": "Vuizur",
+            "repo": "tatoeba-to-anki",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Anki (Flashcards)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mpvacious",
+          "description": "Allows you to automatically create Anki flashcards out of the TV shows you are watching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T00:20:35Z",
+            "owner": "Ajatt-Tools",
+            "repo": "mpvacious",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voracious",
+          "description": "A video player that has several features directed at language learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-02T04:53:54Z",
+            "owner": "rsimmons",
+            "repo": "voracious",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subadub",
+          "description": "An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T02:30:43Z",
+            "owner": "rsimmons",
+            "repo": "subadub",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immersive",
+          "description": "A similar program to mpvacious.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-25T20:16:53Z",
+            "owner": "Ben-Kerman",
+            "repo": "immersive",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Video Players (or extensions)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibreLingo",
+          "description": "An open-source Duolingo-like game.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-19T14:50:08Z",
+            "owner": "kantord",
+            "repo": "LibreLingo",
+            "stars": 2630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game2Text",
+          "description": "A program that makes it easy to look up words in Visual Novels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T05:48:07Z",
+            "owner": "mathewthe2",
+            "repo": "Game2Text",
+            "stars": 292
+          }
+        }
+      ],
+      "title": "Language Learning Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cataclysm: Dark Days Ahead",
+          "description": "A zombie roguelike game with a huge amount of content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:13:55Z",
+            "owner": "CleverRaven",
+            "repo": "Cataclysm-DDA",
+            "stars": 12933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unciv",
+          "description": "Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T08:32:25Z",
+            "owner": "yairm210",
+            "repo": "Unciv",
+            "stars": 11092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTTD",
+          "description": "A simulation game based upon Transport Tycoon Deluxe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T11:22:47Z",
+            "owner": "OpenTTD",
+            "repo": "OpenTTD",
+            "stars": 8162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battle of Wesnoth",
+          "description": "Turn based strategy game with a huge amount of content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T11:02:16Z",
+            "owner": "wesnoth",
+            "repo": "wesnoth",
+            "stars": 6820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shattered Pixel Dungeon",
+          "description": "Very polished roguelike with pixel graphics and desktop + mobile support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-23T15:22:47Z",
+            "owner": "00-Evan",
+            "repo": "shattered-pixel-dungeon",
+            "stars": 6410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Widelands",
+          "description": "A strategy game inspired by Settlers 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T07:36:17Z",
+            "owner": "widelands",
+            "repo": "widelands",
+            "stars": 3023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathos",
+          "description": "A roguelike game with desktop + mobile support inspired by Nethack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T08:09:54Z",
+            "owner": "callanh",
+            "repo": "pathos-official",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Open Source Games (with a lot of text and translations)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "word-discoverer",
+          "description": "An extension that highlights rare words in texts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-09T07:52:18Z",
+            "owner": "mechatroner",
+            "repo": "word-discoverer",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pronounce",
+          "description": "An extension that correctly pronounces words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-27T04:30:04Z",
+            "owner": "tryhardfifi",
+            "repo": "pronounce",
+            "stars": 173
+          }
+        }
+      ],
+      "title": "Chrome Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The KOReader dictionary list",
+          "description": "Direct links to hundreds of free Stardict dictionaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T11:13:13Z",
+            "owner": "koreader",
+            "repo": "koreader",
+            "stars": 28956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyglossary",
+          "description": "Amazing library for the creation and conversion of dictionaries in a huge amount of formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T23:38:48Z",
+            "owner": "ilius",
+            "repo": "pyglossary",
+            "stars": 2664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wiktextract",
+          "description": "A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:56:58Z",
+            "owner": "tatuylonen",
+            "repo": "wiktextract",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate Dictionary API",
+          "description": "A free dictionary API that supports all languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-07T10:10:39Z",
+            "owner": "Vuizur",
+            "repo": "ultimate-dictionary-api",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordnet-as-a-service",
+          "description": "A REST interface for WordNet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-04-09T15:56:34Z",
+            "owner": "jacopofar",
+            "repo": "wordnet-as-a-service",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dictcc-stardict",
+          "description": "Tool to convert the dict.cc dictionaries to stardict format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-10T21:36:49Z",
+            "owner": "Linus789",
+            "repo": "dictcc-stardict",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proficiency",
+          "description": "A library that extracts short definitions from kaikki data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T10:00:48Z",
+            "owner": "xxyzz",
+            "repo": "Proficiency",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Dictionary Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibreTranslate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:51:28Z",
+            "owner": "LibreTranslate",
+            "repo": "LibreTranslate",
+            "stars": 15999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNMT-py",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-14T17:32:07Z",
+            "owner": "OpenNMT",
+            "repo": "OpenNMT-py",
+            "stars": 7011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argos-Translate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T12:09:57Z",
+            "owner": "argosopentech",
+            "repo": "argos-translate",
+            "stars": 6366
+          }
+        }
+      ],
+      "title": "Translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coqui TTS",
+          "description": "An entirely open source Python library running locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-16T12:07:14Z",
+            "owner": "coqui-ai",
+            "repo": "TTS",
+            "stars": 45890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edge-tts",
+          "description": "A Python library the uses the reverse engineered Text To Speech API of the Edge browser, producing extremely high quality output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T19:58:31Z",
+            "owner": "rany2",
+            "repo": "edge-tts",
+            "stars": 11721
+          }
+        }
+      ],
+      "title": "Text To Speech"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "OpenAI's amazing project that delivers extremely good results (except for low-resource languages).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper.cpp",
+          "description": "A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T18:59:53Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 52862
+          }
+        }
+      ],
+      "title": "Speech To Text"
+    },
+    {
+      "description": "You need illustrations for your project? Look no further.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AUTOMATIC1111's webui",
+          "description": "This is what you should install if you want to use Stable Diffusion locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T07:00:53Z",
+            "owner": "AUTOMATIC1111",
+            "repo": "stable-diffusion-webui",
+            "stars": 164506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable diffusion",
+          "description": "An amazing open source generator that made huge waves on its release.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-18T01:53:49Z",
+            "owner": "CompVis",
+            "repo": "stable-diffusion",
+            "stars": 73302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camenduru's notebooks",
+          "description": "A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-16T05:49:10Z",
+            "owner": "camenduru",
+            "repo": "stable-diffusion-webui-colab",
+            "stars": 15919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "civitai",
+          "description": "A website that contains all kinds of models, optimized for different aesthetics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T08:24:12Z",
+            "owner": "civitai",
+            "repo": "civitai",
+            "stars": 7216
+          }
+        }
+      ],
+      "title": "Image generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Low resource languages",
+          "description": "A Github repo containing many links to projects about low resource languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-26T14:45:29Z",
+            "owner": "RichardLitt",
+            "repo": "low-resource-languages",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language-learning",
+          "description": "A Github repo with many links to language learning resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-03T15:16:30Z",
+            "owner": "tigertv",
+            "repo": "language-learning",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Useful Resources"
+    },
+    {
+      "description": "If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:35:49.681Z",
+    "original_repository": "Vuizur/awesome-language-learning",
+    "original_repository_sha": "e6e9d4b182a3b7b6cdd258caceb969abfc0238ec",
+    "enhanced_repository": "enhansome/enhansome-language-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Language Learning with stars"
+  }
+}
