@@ -49,7 +49,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Reader Programs or extensions
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 29,106 | 🐛 1,303 | 🌐 Lua | 📅 2026-08-19 - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
+* [KOReader](https://github.com/koreader/koreader) ⭐ 29,107 | 🐛 1,307 | 🌐 Lua | 📅 2026-08-19 - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
 * [WordDumb](https://github.com/xxyzz/WordDumb) ⭐ 528 | 🐛 2 | 🌐 Python | 📅 2026-08-12 - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
 * [fluentcards](https://github.com/katspaugh/fluentcards) ⭐ 63 | 🐛 4 | 🌐 JavaScript | 📅 2024-02-11 - A website that allows you to turn your kindle lookups into Anki flashcards
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
@@ -78,10 +78,10 @@ These applications allow you to read texts with an integrated system to look up 
 ### Open Source Games (with a lot of text and translations)
 
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/tree/master) ⭐ 12,989 | 🐛 1,842 | 🌐 C++ | 📅 2026-08-19 - A zombie roguelike game with a huge amount of content.
-* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,108 | 🐛 136 | 🌐 Kotlin | 📅 2026-08-19 - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
+* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,108 | 🐛 137 | 🌐 Kotlin | 📅 2026-08-19 - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,184 | 🐛 411 | 🌐 C++ | 📅 2026-08-18 - A simulation game based upon Transport Tycoon Deluxe.
-* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,830 | 🐛 1,489 | 🌐 C++ | 📅 2026-08-19 - Turn based strategy game with a huge amount of content.
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,440 | 🐛 10 | 🌐 Java | 📅 2026-08-15 - Very polished roguelike with pixel graphics and desktop + mobile support.
+* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,831 | 🐛 1,489 | 🌐 C++ | 📅 2026-08-19 - Turn based strategy game with a huge amount of content.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,440 | 🐛 11 | 🌐 Java | 📅 2026-08-15 - Very polished roguelike with pixel graphics and desktop + mobile support.
 * [Widelands](https://github.com/widelands/widelands) ⭐ 3,037 | 🐛 573 | 🌐 C++ | 📅 2026-08-17 - A strategy game inspired by Settlers 2.
 * [Pathos](https://github.com/callanh/pathos-official) ⭐ 192 | 🐛 1 | 🌐 C# | 📅 2026-08-07 - A roguelike game with desktop + mobile support inspired by Nethack.
 * [0 A.D.](https://play0ad.com/) - A strategy game inspired by Age Of Empires.
@@ -104,7 +104,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Dictionary Data
 
-* [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) ⭐ 29,106 | 🐛 1,303 | 🌐 Lua | 📅 2026-08-19 - Direct links to hundreds of free Stardict dictionaries.
+* [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) ⭐ 29,107 | 🐛 1,307 | 🌐 Lua | 📅 2026-08-19 - Direct links to hundreds of free Stardict dictionaries.
 * [pyglossary](https://github.com/ilius/pyglossary) ⭐ 2,668 | 🐛 8 | 🌐 Python | 📅 2026-08-18 - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
 * [wiktextract](https://github.com/tatuylonen/wiktextract) ⭐ 1,248 | 🐛 34 | 🌐 Python | 📅 2026-08-12 - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
 * [Ultimate Dictionary API](https://github.com/Vuizur/ultimate-dictionary-api) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2024-03-07 - A free dictionary API that supports all languages.
@@ -129,14 +129,14 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Speech To Text
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 107,594 | 🐛 135 | 🌐 Python | 📅 2026-07-28 - OpenAI's amazing project that delivers extremely good results (except for low-resource languages).
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,029 | 🐛 1,243 | 🌐 C++ | 📅 2026-08-18 - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.
+* [Whisper](https://github.com/openai/whisper) ⭐ 107,601 | 🐛 135 | 🌐 Python | 📅 2026-07-28 - OpenAI's amazing project that delivers extremely good results (except for low-resource languages).
+* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,030 | 🐛 1,244 | 🌐 C++ | 📅 2026-08-18 - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.
 
 ### Image generation
 
 You need illustrations for your project? Look no further.
 
-* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,577 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 - This is what you should install if you want to use Stable Diffusion locally.
+* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,578 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 - This is what you should install if you want to use Stable Diffusion locally.
 * [Stable diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,306 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18 - An amazing open source generator that made huge waves on its release.
 * [Camenduru's notebooks](https://github.com/camenduru/stable-diffusion-webui-colab) ⭐ 15,916 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-12-16 - A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card).
 * [civitai](https://github.com/civitai/civitai) ⭐ 7,228 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-19 - A website that contains all kinds of models, optimized for different aesthetics.

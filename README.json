@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-19T10:53:01Z",
+                "last_commit": "2026-08-19T11:44:08Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29106
+                "stars": 29107
               }
             },
             {
@@ -401,7 +401,7 @@
                 "archived": false,
                 "id": 111605778,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T07:31:44Z",
+                "last_commit": "2026-08-19T11:39:35Z",
                 "owner": "yairm210",
                 "repo": "Unciv",
                 "stars": 11108
@@ -434,7 +434,7 @@
                 "last_commit": "2026-08-19T06:25:56Z",
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6830
+                "stars": 6831
               }
             },
             {
@@ -541,10 +541,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-19T10:53:01Z",
+                "last_commit": "2026-08-19T11:44:08Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29106
+                "stars": 29107
               }
             },
             {
@@ -745,7 +745,7 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 107594
+                "stars": 107601
               }
             },
             {
@@ -760,7 +760,7 @@
                 "last_commit": "2026-08-18T12:33:22Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53029
+                "stars": 53030
               }
             }
           ],
@@ -782,7 +782,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164577
+                "stars": 164578
               }
             },
             {
@@ -876,8 +876,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:12:29.273Z",
+    "last_updated": "2026-08-19T12:41:19.659Z",
     "original_repository": "Vuizur/awesome-language-learning",
+    "original_repository_id": 584945868,
     "original_repository_sha": "e6e9d4b182a3b7b6cdd258caceb969abfc0238ec",
     "enhanced_repository": "enhansome/enhansome-language-learning",
     "enhanced_repository_description": null,
