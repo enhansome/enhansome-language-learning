@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-24T10:56:05Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29232
+                "stars": 29234
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 306246039,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:32:13Z",
+                "last_commit": "2026-08-24T12:03:07Z",
                 "owner": "xxyzz",
                 "repo": "WordDumb",
                 "stars": 531
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-24T11:04:59Z",
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
-                "stars": 11609
+                "stars": 11611
               }
             },
             {
@@ -389,7 +389,7 @@
                 "last_commit": "2026-08-24T04:28:48Z",
                 "owner": "CleverRaven",
                 "repo": "Cataclysm-DDA",
-                "stars": 13016
+                "stars": 13017
               }
             },
             {
@@ -401,10 +401,10 @@
                 "archived": false,
                 "id": 111605778,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T09:42:24Z",
+                "last_commit": "2026-08-24T13:42:43Z",
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11121
+                "stars": 11123
               }
             },
             {
@@ -419,7 +419,7 @@
                 "last_commit": "2026-08-24T05:21:44Z",
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8201
+                "stars": 8202
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-08-23T20:38:28Z",
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6842
+                "stars": 6841
               }
             },
             {
@@ -491,6 +491,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Language Transfer",
+              "description": "An app that offers completely free audio courses for several languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264530459,
+                "language": "TypeScript",
+                "last_commit": "2025-12-24T16:55:23Z",
+                "owner": "language-transfer",
+                "repo": "lt-app",
+                "stars": 357
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "word-discoverer",
               "description": "An extension that highlights rare words in texts.",
               "children": [],
@@ -534,6 +556,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "wordfreq",
+              "description": "A great Python library that contains frequency data for 44 languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13941524,
+                "language": "Python",
+                "last_commit": "2025-01-04T20:59:31Z",
+                "owner": "rspeer",
+                "repo": "wordfreq",
+                "stars": 1731
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frequency Lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "The KOReader dictionary list",
               "description": "Direct links to hundreds of free Stardict dictionaries.",
               "children": [],
@@ -544,7 +588,7 @@
                 "last_commit": "2026-08-24T10:56:05Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29232
+                "stars": 29234
               }
             },
             {
@@ -656,7 +700,7 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16117
+                "stars": 16118
               }
             },
             {
@@ -708,7 +752,7 @@
                 "last_commit": "2024-08-16T12:07:14Z",
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45941
+                "stars": 45943
               }
             },
             {
@@ -735,6 +779,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "spaCy",
+              "description": "A great library that can do everything: tokenization, lemmatization, named entity recognition, and much more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21467110,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:26:10Z",
+                "owner": "explosion",
+                "repo": "spaCy",
+                "stars": 33839
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NLP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Whisper",
               "description": "OpenAI's amazing project that delivers extremely good results (except for low-resource languages).",
               "children": [],
@@ -745,7 +811,7 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 107856
+                "stars": 107866
               }
             },
             {
@@ -760,7 +826,7 @@
                 "last_commit": "2026-08-24T10:36:17Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53130
+                "stars": 53136
               }
             }
           ],
@@ -782,7 +848,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164632
+                "stars": 164633
               }
             },
             {
@@ -797,7 +863,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73342
+                "stars": 73344
               }
             },
             {
@@ -834,6 +900,28 @@
           "description": "You need illustrations for your project? Look no further.",
           "node_type": "group",
           "title": "Image generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WantWords",
+              "description": "A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301421364,
+                "language": "JavaScript",
+                "last_commit": "2022-02-23T11:52:43Z",
+                "owner": "thunlp",
+                "repo": "WantWords",
+                "stars": 7098
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Great Projects"
         }
       ],
       "title": "Developer Resources"
@@ -876,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:15:24.111Z",
+    "last_updated": "2026-08-24T14:33:38.675Z",
     "original_repository": "Vuizur/awesome-language-learning",
     "original_repository_id": 584945868,
     "original_repository_sha": "e6e9d4b182a3b7b6cdd258caceb969abfc0238ec",
