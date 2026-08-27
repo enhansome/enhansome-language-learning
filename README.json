@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T08:47:28Z",
                 "owner": "reader-dict",
                 "repo": "monolingual",
-                "stars": 952
+                "stars": 953
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 422513674,
                 "language": "PHP",
-                "last_commit": "2026-08-27T09:32:44Z",
+                "last_commit": "2026-08-27T13:03:24Z",
                 "owner": "HugoFara",
                 "repo": "lwt",
                 "stars": 243
@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-27T10:21:34Z",
+                "last_commit": "2026-08-27T17:29:24Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29297
+                "stars": 29304
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-24T12:03:07Z",
                 "owner": "xxyzz",
                 "repo": "WordDumb",
-                "stars": 531
+                "stars": 532
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 7716883,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T09:46:23Z",
+                "last_commit": "2026-08-27T14:06:15Z",
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
-                "stars": 11629
+                "stars": 11631
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-27T08:15:12Z",
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11139
+                "stars": 11141
               }
             },
             {
@@ -419,7 +419,7 @@
                 "last_commit": "2026-08-26T20:07:05Z",
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8211
+                "stars": 8210
               }
             },
             {
@@ -431,7 +431,7 @@
                 "archived": false,
                 "id": 9432220,
                 "language": "C++",
-                "last_commit": "2026-08-27T06:28:52Z",
+                "last_commit": "2026-08-27T17:22:29Z",
                 "owner": "wesnoth",
                 "repo": "wesnoth",
                 "stars": 6843
@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 207238889,
                 "language": "C++",
-                "last_commit": "2026-08-26T22:39:58Z",
+                "last_commit": "2026-08-27T19:25:52Z",
                 "owner": "widelands",
                 "repo": "widelands",
-                "stars": 3041
+                "stars": 3040
               }
             },
             {
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-27T10:21:34Z",
+                "last_commit": "2026-08-27T17:29:24Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29297
+                "stars": 29304
               }
             },
             {
@@ -618,7 +618,7 @@
                 "last_commit": "2026-08-12T08:56:58Z",
                 "owner": "tatuylonen",
                 "repo": "wiktextract",
-                "stars": 1251
+                "stars": 1252
               }
             },
             {
@@ -700,7 +700,7 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16137
+                "stars": 16140
               }
             },
             {
@@ -730,7 +730,7 @@
                 "last_commit": "2026-08-08T12:09:57Z",
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6403
+                "stars": 6404
               }
             }
           ],
@@ -752,7 +752,7 @@
                 "last_commit": "2024-08-16T12:07:14Z",
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45958
+                "stars": 45960
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11805
+                "stars": 11807
               }
             }
           ],
@@ -789,7 +789,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33854
+                "stars": 33856
               }
             }
           ],
@@ -811,7 +811,7 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108002
+                "stars": 108024
               }
             },
             {
@@ -826,7 +826,7 @@
                 "last_commit": "2026-08-25T13:11:32Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53221
+                "stars": 53234
               }
             }
           ],
@@ -848,7 +848,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164682
+                "stars": 164690
               }
             },
             {
@@ -863,7 +863,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73348
+                "stars": 73350
               }
             },
             {
@@ -878,7 +878,7 @@
                 "last_commit": "2025-12-16T05:49:10Z",
                 "owner": "camenduru",
                 "repo": "stable-diffusion-webui-colab",
-                "stars": 15910
+                "stars": 15911
               }
             },
             {
@@ -890,10 +890,10 @@
                 "archived": false,
                 "id": 549830413,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:50:35Z",
+                "last_commit": "2026-08-27T20:33:36Z",
                 "owner": "civitai",
                 "repo": "civitai",
-                "stars": 7240
+                "stars": 7241
               }
             }
           ],
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:42.311Z",
+    "last_updated": "2026-08-27T20:48:58.033Z",
     "original_repository_info": {
       "archived": false,
       "id": 584945868,
