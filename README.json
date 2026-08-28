@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 255039105,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:47:28Z",
+                "last_commit": "2026-08-28T19:04:19Z",
                 "owner": "reader-dict",
                 "repo": "monolingual",
-                "stars": 953
-              }
+                "stars": 954
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "pnlpal",
                 "repo": "dictionariez",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2023-05-19T11:06:20Z",
                 "owner": "Vuizur",
                 "repo": "Wiktionary-Dictionaries",
-                "stars": 185
-              }
+                "stars": 186
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "karlb",
                 "repo": "wikdict-gen",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2026-07-24T23:12:31Z",
                 "owner": "LuteOrg",
                 "repo": "lute-v3",
-                "stars": 1541
-              }
+                "stars": 1543
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "HugoFara",
                 "repo": "lwt",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "teesloane",
                 "repo": "trunk",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": "These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.",
@@ -133,11 +140,12 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-27T17:29:24Z",
+                "last_commit": "2026-08-28T20:58:42Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29304
-              }
+                "stars": 29330
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -148,11 +156,12 @@
                 "archived": false,
                 "id": 306246039,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:03:07Z",
+                "last_commit": "2026-08-28T03:34:31Z",
                 "owner": "xxyzz",
                 "repo": "WordDumb",
-                "stars": 532
-              }
+                "stars": 533
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "katspaugh",
                 "repo": "fluentcards",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -185,11 +195,12 @@
                 "archived": false,
                 "id": 7716883,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T14:06:15Z",
+                "last_commit": "2026-08-28T19:45:27Z",
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
-                "stars": 11631
-              }
+                "stars": 11633
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs4anki",
                 "stars": 4053
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -218,8 +230,9 @@
                 "last_commit": "2025-08-15T01:33:56Z",
                 "owner": "FreeLanguageTools",
                 "repo": "vocabsieve",
-                "stars": 531
-              }
+                "stars": 532
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "proycon",
                 "repo": "vocage",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "damaru2",
                 "repo": "ankigenbot",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "Vuizur",
                 "repo": "tatoeba-to-anki",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -286,7 +302,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "mpvacious",
                 "stars": 880
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "rsimmons",
                 "repo": "voracious",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "rsimmons",
                 "repo": "subadub",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "Ben-Kerman",
                 "repo": "immersive",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -353,7 +373,8 @@
                 "owner": "kantord",
                 "repo": "LibreLingo",
                 "stars": 2630
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "mathewthe2",
                 "repo": "Game2Text",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -386,11 +408,12 @@
                 "archived": false,
                 "id": 5973855,
                 "language": "C++",
-                "last_commit": "2026-08-27T06:20:09Z",
+                "last_commit": "2026-08-28T20:28:53Z",
                 "owner": "CleverRaven",
                 "repo": "Cataclysm-DDA",
-                "stars": 13044
-              }
+                "stars": 13051
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -404,8 +427,9 @@
                 "last_commit": "2026-08-27T08:15:12Z",
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11141
-              }
+                "stars": 11153
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -416,11 +440,12 @@
                 "archived": false,
                 "id": 128430621,
                 "language": "C++",
-                "last_commit": "2026-08-26T20:07:05Z",
+                "last_commit": "2026-08-28T16:53:37Z",
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8210
-              }
+                "stars": 8214
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -431,11 +456,12 @@
                 "archived": false,
                 "id": 9432220,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:22:29Z",
+                "last_commit": "2026-08-28T19:30:57Z",
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6843
-              }
+                "stars": 6845
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
                 "stars": 6465
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -461,11 +488,12 @@
                 "archived": false,
                 "id": 207238889,
                 "language": "C++",
-                "last_commit": "2026-08-27T19:25:52Z",
+                "last_commit": "2026-08-28T21:01:01Z",
                 "owner": "widelands",
                 "repo": "widelands",
-                "stars": 3040
-              }
+                "stars": 3041
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "callanh",
                 "repo": "pathos-official",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -502,7 +531,8 @@
                 "owner": "language-transfer",
                 "repo": "lt-app",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -524,7 +554,8 @@
                 "owner": "mechatroner",
                 "repo": "word-discoverer",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "tryhardfifi",
                 "repo": "pronounce",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -566,8 +598,9 @@
                 "last_commit": "2025-01-04T20:59:31Z",
                 "owner": "rspeer",
                 "repo": "wordfreq",
-                "stars": 1732
-              }
+                "stars": 1733
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -585,11 +618,12 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-27T17:29:24Z",
+                "last_commit": "2026-08-28T20:58:42Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29304
-              }
+                "stars": 29330
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -603,8 +637,9 @@
                 "last_commit": "2026-08-24T08:09:39Z",
                 "owner": "ilius",
                 "repo": "pyglossary",
-                "stars": 2672
-              }
+                "stars": 2671
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -615,11 +650,12 @@
                 "archived": false,
                 "id": 155235363,
                 "language": "Python",
-                "last_commit": "2026-08-12T08:56:58Z",
+                "last_commit": "2026-08-28T10:40:09Z",
                 "owner": "tatuylonen",
                 "repo": "wiktextract",
-                "stars": 1252
-              }
+                "stars": 1253
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -634,7 +670,8 @@
                 "owner": "Vuizur",
                 "repo": "ultimate-dictionary-api",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -649,7 +686,8 @@
                 "owner": "jacopofar",
                 "repo": "wordnet-as-a-service",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -664,7 +702,8 @@
                 "owner": "Linus789",
                 "repo": "dictcc-stardict",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -675,11 +714,12 @@
                 "archived": false,
                 "id": 527140841,
                 "language": "Python",
-                "last_commit": "2026-07-25T10:00:48Z",
+                "last_commit": "2026-08-28T03:35:32Z",
                 "owner": "xxyzz",
                 "repo": "Proficiency",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -700,8 +740,9 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16140
-              }
+                "stars": 16150
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -716,7 +757,8 @@
                 "owner": "OpenNMT",
                 "repo": "OpenNMT-py",
                 "stars": 7013
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -730,8 +772,9 @@
                 "last_commit": "2026-08-08T12:09:57Z",
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6404
-              }
+                "stars": 6407
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -752,8 +795,9 @@
                 "last_commit": "2024-08-16T12:07:14Z",
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45960
-              }
+                "stars": 45967
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -767,8 +811,9 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11807
-              }
+                "stars": 11813
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -789,8 +834,9 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33856
-              }
+                "stars": 33860
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -811,8 +857,9 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108024
-              }
+                "stars": 108079
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -826,8 +873,9 @@
                 "last_commit": "2026-08-25T13:11:32Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53234
-              }
+                "stars": 53260
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -848,8 +896,9 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164690
-              }
+                "stars": 164702
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -863,8 +912,9 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73350
-              }
+                "stars": 73356
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -878,8 +928,9 @@
                 "last_commit": "2025-12-16T05:49:10Z",
                 "owner": "camenduru",
                 "repo": "stable-diffusion-webui-colab",
-                "stars": 15911
-              }
+                "stars": 15912
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             },
             {
               "node_type": "item",
@@ -890,11 +941,12 @@
                 "archived": false,
                 "id": 549830413,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:33:36Z",
+                "last_commit": "2026-08-28T21:11:20Z",
                 "owner": "civitai",
                 "repo": "civitai",
-                "stars": 7241
-              }
+                "stars": 7240
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": "You need illustrations for your project? Look no further.",
@@ -916,7 +968,8 @@
                 "owner": "thunlp",
                 "repo": "WantWords",
                 "stars": 7097
-              }
+              },
+              "first_seen": "2026-08-28T21:16:55.500Z"
             }
           ],
           "description": null,
@@ -942,7 +995,8 @@
             "owner": "RichardLitt",
             "repo": "low-resource-languages",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T21:16:55.500Z"
         },
         {
           "node_type": "item",
@@ -957,14 +1011,15 @@
             "owner": "tigertv",
             "repo": "language-learning",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T21:16:55.500Z"
         }
       ],
       "title": "Useful Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:48:58.033Z",
+    "last_updated": "2026-08-28T21:16:55.500Z",
     "original_repository_info": {
       "archived": false,
       "id": 584945868,
