@@ -17,8 +17,8 @@
                 "id": 255039105,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:04:19Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-29T13:58:24Z",
+                "open_issues": 9,
                 "owner": "reader-dict",
                 "repo": "monolingual",
                 "stars": 954,
@@ -170,7 +170,7 @@
                 "open_issues": 221,
                 "owner": "LuteOrg",
                 "repo": "lute-v3",
-                "stars": 1543,
+                "stars": 1542,
                 "topics": [
                   "language-learning",
                   "lute"
@@ -254,11 +254,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T00:23:31Z",
-                "open_issues": 1326,
+                "last_commit": "2026-08-29T13:44:04Z",
+                "open_issues": 1327,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29335,
+                "stars": 29349,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -364,11 +364,11 @@
                 "id": 7716883,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T00:27:33Z",
-                "open_issues": 383,
+                "last_commit": "2026-08-29T12:26:20Z",
+                "open_issues": 376,
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
-                "stars": 11634,
+                "stars": 11638,
                 "topics": [
                   "android",
                   "anki",
@@ -398,7 +398,7 @@
                 "open_issues": 8,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs4anki",
-                "stars": 4053,
+                "stars": 4052,
                 "topics": [
                   "anki",
                   "anki-addon",
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "Ajatt-Tools",
                 "repo": "mpvacious",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "ajatt",
                   "anki",
@@ -736,11 +736,11 @@
                 "id": 5973855,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:49:59Z",
-                "open_issues": 1810,
+                "last_commit": "2026-08-29T05:03:41Z",
+                "open_issues": 1808,
                 "owner": "CleverRaven",
                 "repo": "Cataclysm-DDA",
-                "stars": 13050,
+                "stars": 13051,
                 "topics": [
                   "c-plus-plus",
                   "cataclysm",
@@ -767,7 +767,7 @@
                 "open_issues": 151,
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11159,
+                "stars": 11196,
                 "topics": [
                   "4x",
                   "4x-strategy-game",
@@ -795,11 +795,11 @@
                 "id": 128430621,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T16:53:37Z",
-                "open_issues": 412,
+                "last_commit": "2026-08-29T13:34:51Z",
+                "open_issues": 410,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8216,
+                "stars": 8218,
                 "topics": [
                   "game",
                   "isometric",
@@ -826,7 +826,7 @@
                 "open_issues": 1495,
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6845,
+                "stars": 6846,
                 "topics": [
                   "fantasy",
                   "free",
@@ -878,7 +878,7 @@
                 "id": 207238889,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T21:46:56Z",
+                "last_commit": "2026-08-29T09:19:12Z",
                 "open_issues": 574,
                 "owner": "widelands",
                 "repo": "widelands",
@@ -1070,11 +1070,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T00:23:31Z",
-                "open_issues": 1326,
+                "last_commit": "2026-08-29T13:44:04Z",
+                "open_issues": 1327,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29335,
+                "stars": 29349,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -1116,7 +1116,7 @@
                 "open_issues": 6,
                 "owner": "ilius",
                 "repo": "pyglossary",
-                "stars": 2672,
+                "stars": 2674,
                 "topics": [
                   "dictionary",
                   "dictionary-conversion",
@@ -1292,7 +1292,7 @@
                 "open_issues": 124,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16152,
+                "stars": 16178,
                 "topics": [
                   "api",
                   "machine",
@@ -1347,7 +1347,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6408,
+                "stars": 6411,
                 "topics": [
                   "language-models",
                   "linux",
@@ -1425,7 +1425,7 @@
                 "open_issues": 4,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11813,
+                "stars": 11817,
                 "topics": [
                   "speech-synthesis",
                   "text-to-speech",
@@ -1503,7 +1503,7 @@
                 "open_issues": 136,
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108089,
+                "stars": 108117,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
@@ -1524,7 +1524,7 @@
                 "open_issues": 1238,
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53262,
+                "stars": 53275,
                 "topics": [
                   "inference",
                   "openai",
@@ -1559,7 +1559,7 @@
                 "open_issues": 2501,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164711,
+                "stars": 164718,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1597,7 +1597,7 @@
                 "open_issues": 618,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73356,
+                "stars": 73355,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
@@ -1618,7 +1618,7 @@
                 "open_issues": 37,
                 "owner": "camenduru",
                 "repo": "stable-diffusion-webui-colab",
-                "stars": 15913,
+                "stars": 15912,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1655,8 +1655,8 @@
                 "id": 549830413,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:40:30Z",
-                "open_issues": 197,
+                "last_commit": "2026-08-29T05:34:52Z",
+                "open_issues": 198,
                 "owner": "civitai",
                 "repo": "civitai",
                 "stars": 7240,
@@ -1796,7 +1796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:57.909Z",
+    "last_updated": "2026-08-29T15:21:05.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazing projects that help you learn languages.",
