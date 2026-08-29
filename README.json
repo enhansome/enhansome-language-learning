@@ -12,12 +12,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.",
+                "homepage": "https://www.reader-dict.com",
                 "id": 255039105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:04:19Z",
+                "open_issues": 10,
                 "owner": "reader-dict",
                 "repo": "monolingual",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "bilingual",
+                  "dict",
+                  "dictionary",
+                  "ebook-reader",
+                  "goldendict",
+                  "kindle",
+                  "kindlegen",
+                  "kobo",
+                  "koreader",
+                  "monolingual",
+                  "multilingual",
+                  "plato",
+                  "python",
+                  "reader-dict",
+                  "stardict",
+                  "wiktionary",
+                  "wiktionary-dump",
+                  "wiktionary-parser"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -28,12 +52,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.",
+                "homepage": "https://dictionariez.pnl.dev",
                 "id": 225626078,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-26T10:33:53Z",
+                "open_issues": 14,
                 "owner": "pnlpal",
                 "repo": "dictionariez",
-                "stars": 670
+                "stars": 670,
+                "topics": [
+                  "anki",
+                  "browser-extension",
+                  "chrome-extension",
+                  "crx",
+                  "dictionaries",
+                  "edge-extension",
+                  "english",
+                  "firefox-addon",
+                  "language-learning",
+                  "learn-a-new-language",
+                  "learn-languages",
+                  "learning-resources",
+                  "read-aloud",
+                  "swedish",
+                  "text-to-speech",
+                  "translation",
+                  "translation-tool",
+                  "translator",
+                  "vocabulary-builder",
+                  "web-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -44,12 +94,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ebook reader dictionaries extracted from Wiktionary in almost all languages, in Stardict, Tabfile and Kindle format",
+                "homepage": null,
                 "id": 527224898,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-19T11:06:20Z",
+                "open_issues": 12,
                 "owner": "Vuizur",
                 "repo": "Wiktionary-Dictionaries",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "dictionary",
+                  "ebook",
+                  "kindle",
+                  "kindle-dictionary",
+                  "language-learning",
+                  "stardict",
+                  "wiktionary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -60,12 +123,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generation of bilingual dictionaries from Wiktionary/dbnary data for the WikDict project",
+                "homepage": "http://www.wikdict.com",
                 "id": 220329831,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-25T17:02:36Z",
+                "open_issues": 5,
                 "owner": "karlb",
                 "repo": "wikdict-gen",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "dictionary",
+                  "free",
+                  "freedict",
+                  "open-data",
+                  "sparql",
+                  "sqlite",
+                  "tei",
+                  "translation",
+                  "wiktionary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -83,12 +161,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LUTE = Learning Using Texts: learn languages through reading.",
+                "homepage": "https://luteorg.github.io/lute-manual/",
                 "id": 689108215,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-24T23:12:31Z",
+                "open_issues": 221,
                 "owner": "LuteOrg",
                 "repo": "lute-v3",
-                "stars": 1543
+                "stars": 1543,
+                "topics": [
+                  "language-learning",
+                  "lute"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -99,12 +185,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn languages by reading! A language learning app stemmed from Learning with Texts (LWT).",
+                "homepage": "https://hugofara.github.io/lwt/",
                 "id": 422513674,
                 "language": "PHP",
+                "license": "Unlicense",
                 "last_commit": "2026-08-27T13:03:24Z",
+                "open_issues": 13,
                 "owner": "HugoFara",
                 "repo": "lwt",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "docker",
+                  "language-acquisition",
+                  "language-learning",
+                  "lwt",
+                  "multilingual",
+                  "php",
+                  "reading",
+                  "self-hosted",
+                  "spaced-repetition",
+                  "vocabulary",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -115,12 +218,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language learning application.",
+                "homepage": "https://theiceshelf.itch.io/trunk",
                 "id": 385083458,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2022-10-13T18:27:28Z",
+                "open_issues": 1,
                 "owner": "teesloane",
                 "repo": "trunk",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "clojurescript",
+                  "electron"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -138,12 +249,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+                "homepage": "http://koreader.rocks/",
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-28T20:58:42Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:23:31Z",
+                "open_issues": 1326,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29330
+                "stars": 29335,
+                "topics": [
+                  "cbz",
+                  "djvu",
+                  "djvu-reflow",
+                  "ebook",
+                  "ebook-reader",
+                  "eink",
+                  "epub",
+                  "ereader",
+                  "fb2",
+                  "kindle",
+                  "kobo",
+                  "luajit",
+                  "opds",
+                  "pdf",
+                  "pdf-reflow",
+                  "pocketbook",
+                  "reader",
+                  "reflow",
+                  "remarkable-tablet",
+                  "ubuntu-touch"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -154,12 +291,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A calibre plugin that generates Kindle Word Wise and X-Ray files for KFX, AZW3, MOBI and EPUB eBook.",
+                "homepage": "https://xxyzz.github.io/WordDumb/",
                 "id": 306246039,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T03:34:31Z",
+                "open_issues": 2,
                 "owner": "xxyzz",
                 "repo": "WordDumb",
-                "stars": 533
+                "stars": 533,
+                "topics": [
+                  "anki",
+                  "books",
+                  "calibre",
+                  "calibre-plugin",
+                  "dictionary",
+                  "ebook",
+                  "epub",
+                  "ereader",
+                  "kindle",
+                  "language-learning",
+                  "python",
+                  "spacy",
+                  "wikidata",
+                  "wikipedia",
+                  "wiktionary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -170,12 +328,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flashcards from dictionary look-ups",
+                "homepage": "https://fluentcards.com",
                 "id": 62668176,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-11T18:12:00Z",
+                "open_issues": 4,
                 "owner": "katspaugh",
                 "repo": "fluentcards",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "fluentcards",
+                  "language-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -193,12 +359,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+                "homepage": null,
                 "id": 7716883,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T19:45:27Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T00:27:33Z",
+                "open_issues": 383,
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
-                "stars": 11633
+                "stars": 11634,
+                "topics": [
+                  "android",
+                  "anki",
+                  "ankidroid",
+                  "education",
+                  "flashcards",
+                  "kotlin",
+                  "learning",
+                  "srs"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -209,12 +389,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm",
+                "homepage": "https://github.com/open-spaced-repetition/fsrs4anki/wiki",
                 "id": 534168787,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-14T03:34:18Z",
+                "open_issues": 8,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs4anki",
-                "stars": 4053
+                "stars": 4053,
+                "topics": [
+                  "anki",
+                  "anki-addon",
+                  "deep-learning",
+                  "fsrs",
+                  "intelligent-tutoring-system",
+                  "machine-learning",
+                  "memory",
+                  "optimal-control",
+                  "reinforcement-learning",
+                  "spaced-repetition",
+                  "spaced-repetition-algorithm",
+                  "srs"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -225,12 +423,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple sentence mining tool for language learning",
+                "homepage": null,
                 "id": 384584647,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-15T01:33:56Z",
+                "open_issues": 32,
                 "owner": "FreeLanguageTools",
                 "repo": "vocabsieve",
-                "stars": 532
+                "stars": 532,
+                "topics": [
+                  "anki",
+                  "epub",
+                  "language-learning",
+                  "python",
+                  "sentence-mining",
+                  "spaced-repetition"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -241,12 +451,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic spaced-repetion vocabulary trainer (flashcards) for the terminal (mirror of https://git.sr.ht/~proycon/vocage)",
+                "homepage": "https://git.sr.ht/~proycon/vocage",
                 "id": 273336750,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-06T20:44:02Z",
+                "open_issues": 7,
                 "owner": "proycon",
                 "repo": "vocage",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "anki",
+                  "command-line",
+                  "flashcards",
+                  "language-learning",
+                  "leitner",
+                  "terminal-based",
+                  "tsv",
+                  "vocabulary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -257,12 +481,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram bot to automatically generate and upload anki cards to ankisrs.net",
+                "homepage": null,
                 "id": 74177199,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-24T16:46:50Z",
+                "open_issues": 4,
                 "owner": "damaru2",
                 "repo": "ankigenbot",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "anki",
+                  "telegram-bot",
+                  "upload-anki-cards"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -273,12 +506,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates Anki Flash cards from Tatoeba sentences, ordering them by difficulty and downloading audio",
+                "homepage": null,
                 "id": 498040817,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-14T17:32:26Z",
+                "open_issues": 4,
                 "owner": "Vuizur",
                 "repo": "tatoeba-to-anki",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "anki",
+                  "flashcards",
+                  "language-learning",
+                  "tatoeba"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -296,12 +539,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.",
+                "homepage": "https://tatsumoto-ren.github.io/blog/mining-from-movies-and-tv-shows.html",
                 "id": 284816063,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T16:59:01Z",
+                "open_issues": 12,
                 "owner": "Ajatt-Tools",
                 "repo": "mpvacious",
-                "stars": 880
+                "stars": 880,
+                "topics": [
+                  "ajatt",
+                  "anki",
+                  "anki-cards",
+                  "flashcards",
+                  "goldendict",
+                  "language-learning",
+                  "lua",
+                  "mpv",
+                  "mpv-script",
+                  "rikaitan",
+                  "spaced-repetition",
+                  "subs2srs",
+                  "subtitles"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -312,12 +574,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A video player for studying foreign languages (esp. Japanese)",
+                "homepage": "https://voracious.app",
                 "id": 60576231,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-02T04:53:54Z",
+                "open_issues": 43,
                 "owner": "rsimmons",
                 "repo": "voracious",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "anki",
+                  "japanese",
+                  "language-learning",
+                  "subtitles",
+                  "video-player"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -328,12 +601,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome+Firefox extension for studying foreign languages using Netflix subtitles",
+                "homepage": null,
                 "id": 161709285,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-01T02:30:43Z",
+                "open_issues": 19,
                 "owner": "rsimmons",
                 "repo": "subadub",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "language-learning",
+                  "netflix",
+                  "subtitles"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -344,12 +626,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language learning mpv script for looking up words within mpv and generating Anki cards",
+                "homepage": null,
                 "id": 314697139,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-25T20:16:53Z",
+                "open_issues": 5,
                 "owner": "Ben-Kerman",
                 "repo": "immersive",
-                "stars": 94
+                "stars": 95,
+                "topics": [
+                  "anki",
+                  "copy-paste",
+                  "dictionaries",
+                  "language-learning",
+                  "migaku",
+                  "mpv",
+                  "mpv-script",
+                  "subtitles",
+                  "yomichan"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -367,12 +664,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐢 🌎 📚 a community-owned language-learning platform",
+                "homepage": "https://librelingo.app",
                 "id": 225245314,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-19T14:50:08Z",
+                "open_issues": 176,
                 "owner": "kantord",
                 "repo": "LibreLingo",
-                "stars": 2630
+                "stars": 2630,
+                "topics": [
+                  "agplv3",
+                  "education",
+                  "flashcards",
+                  "foreign-language",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "language-learning",
+                  "python",
+                  "second-language-acquisition",
+                  "spaced-repetition",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -383,12 +697,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete toolbox for gamifying language learning",
+                "homepage": "https://www.Game2Text.com",
                 "id": 328897417,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-19T05:48:07Z",
+                "open_issues": 35,
                 "owner": "mathewthe2",
                 "repo": "Game2Text",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "anki",
+                  "language-learning",
+                  "languages",
+                  "ocr",
+                  "yomichan"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -406,12 +731,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+                "homepage": "http://cataclysmdda.org",
                 "id": 5973855,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:28:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:49:59Z",
+                "open_issues": 1810,
                 "owner": "CleverRaven",
                 "repo": "Cataclysm-DDA",
-                "stars": 13051
+                "stars": 13050,
+                "topics": [
+                  "c-plus-plus",
+                  "cataclysm",
+                  "game",
+                  "hacktoberfest",
+                  "zombies"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -422,12 +758,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Android/Desktop remake of Civ V",
+                "homepage": null,
                 "id": 111605778,
                 "language": "Kotlin",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T08:15:12Z",
+                "open_issues": 151,
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11153
+                "stars": 11159,
+                "topics": [
+                  "4x",
+                  "4x-strategy-game",
+                  "android",
+                  "civ",
+                  "civilization",
+                  "civilization-v",
+                  "game",
+                  "itch",
+                  "libgdx",
+                  "strategy-game"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -438,12 +790,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+                "homepage": "https://www.openttd.org/",
                 "id": 128430621,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:53:37Z",
+                "open_issues": 412,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8214
+                "stars": 8216,
+                "topics": [
+                  "game",
+                  "isometric",
+                  "openttd",
+                  "sandbox",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -454,12 +817,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, turn-based strategy game with a high fantasy theme.",
+                "homepage": "https://www.wesnoth.org/",
                 "id": 9432220,
                 "language": "C++",
-                "last_commit": "2026-08-28T19:30:57Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-29T01:29:06Z",
+                "open_issues": 1495,
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6845
+                "stars": 6845,
+                "topics": [
+                  "fantasy",
+                  "free",
+                  "game",
+                  "opensource",
+                  "strategy-game",
+                  "turn-based-strategy"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -470,12 +845,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+                "homepage": "https://shatteredpixel.com/shatteredpd/",
                 "id": 22486533,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T14:52:52Z",
+                "open_issues": 11,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6465
+                "stars": 6465,
+                "topics": [
+                  "android",
+                  "game",
+                  "game-development",
+                  "ios",
+                  "java",
+                  "libgdx"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -486,12 +873,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+                "homepage": "https://www.widelands.org/",
                 "id": 207238889,
                 "language": "C++",
-                "last_commit": "2026-08-28T21:01:01Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T21:46:56Z",
+                "open_issues": 574,
                 "owner": "widelands",
                 "repo": "widelands",
-                "stars": 3041
+                "stars": 3042,
+                "topics": [
+                  "apple-silicon",
+                  "bsd",
+                  "c-plus-plus",
+                  "cmake",
+                  "floss",
+                  "game",
+                  "gplv2",
+                  "json",
+                  "linux",
+                  "lua",
+                  "macos-app",
+                  "python",
+                  "strategy",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -502,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for Pathos content and modules",
+                "homepage": null,
                 "id": 588860935,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T08:09:54Z",
+                "open_issues": 1,
                 "owner": "callanh",
                 "repo": "pathos-official",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -525,12 +937,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native application for Language Transfer",
+                "homepage": "https://www.languagetransfer.org/",
                 "id": 264530459,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-12-24T16:55:23Z",
+                "open_issues": 58,
                 "owner": "language-transfer",
                 "repo": "lt-app",
-                "stars": 357
+                "stars": 357,
+                "topics": [
+                  "language-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -548,12 +967,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":book: Chrome Extension: Word Discoverer",
+                "homepage": null,
                 "id": 78310548,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-09T07:52:18Z",
+                "open_issues": 23,
                 "owner": "mechatroner",
                 "repo": "word-discoverer",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "browser-extension",
+                  "chrome-extension",
+                  "language-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -564,12 +992,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Never doubt how to pronounce a word. Double-click it and your browser will say it out loud for you! ",
+                "homepage": null,
                 "id": 304744787,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-03-27T04:30:04Z",
+                "open_issues": 6,
                 "owner": "tryhardfifi",
                 "repo": "pronounce",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "add-on",
+                  "add-ons-for-firefox",
+                  "chrome",
+                  "doubt",
+                  "extension-chrome",
+                  "firefox",
+                  "language",
+                  "language-learning",
+                  "pronounciation",
+                  "school"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -593,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access a database of word frequencies, in various natural languages.",
+                "homepage": null,
                 "id": 13941524,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-04T20:59:31Z",
+                "open_issues": 11,
                 "owner": "rspeer",
                 "repo": "wordfreq",
-                "stars": 1733
+                "stars": 1733,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -616,12 +1065,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+                "homepage": "http://koreader.rocks/",
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-28T20:58:42Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:23:31Z",
+                "open_issues": 1326,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29330
+                "stars": 29335,
+                "topics": [
+                  "cbz",
+                  "djvu",
+                  "djvu-reflow",
+                  "ebook",
+                  "ebook-reader",
+                  "eink",
+                  "epub",
+                  "ereader",
+                  "fb2",
+                  "kindle",
+                  "kobo",
+                  "luajit",
+                  "opds",
+                  "pdf",
+                  "pdf-reflow",
+                  "pocketbook",
+                  "reader",
+                  "reflow",
+                  "remarkable-tablet",
+                  "ubuntu-touch"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -632,12 +1107,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any operating system / device.",
+                "homepage": null,
                 "id": 1284229,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T08:09:39Z",
+                "open_issues": 6,
                 "owner": "ilius",
                 "repo": "pyglossary",
-                "stars": 2671
+                "stars": 2672,
+                "topics": [
+                  "dictionary",
+                  "dictionary-conversion",
+                  "dictionary-tools",
+                  "glossaries",
+                  "gtk",
+                  "linux",
+                  "pygi",
+                  "python",
+                  "stardict",
+                  "tkinter"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -648,12 +1139,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiktionary dump file parser and multilingual data extractor",
+                "homepage": null,
                 "id": 155235363,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T10:40:09Z",
+                "open_issues": 36,
                 "owner": "tatuylonen",
                 "repo": "wiktextract",
-                "stars": 1253
+                "stars": 1253,
+                "topics": [
+                  "dictionary",
+                  "extractor",
+                  "lua",
+                  "multilingual",
+                  "parser",
+                  "scribunto",
+                  "templates",
+                  "wikitext",
+                  "wiktionary",
+                  "wiktionary-parser"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -664,12 +1171,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free dictionary API allowing translations from any language to another",
+                "homepage": null,
                 "id": 736570016,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-03-07T10:10:39Z",
+                "open_issues": 0,
                 "owner": "Vuizur",
                 "repo": "ultimate-dictionary-api",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "api",
+                  "dictionary",
+                  "language-learning",
+                  "spring-boot",
+                  "wiktionary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -680,12 +1198,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WordNet behind a REST interface",
+                "homepage": null,
                 "id": 62509530,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-04-09T15:56:34Z",
+                "open_issues": 0,
                 "owner": "jacopofar",
                 "repo": "wordnet-as-a-service",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "annotator",
+                  "hacktoberfest",
+                  "holonyms",
+                  "hyponyms",
+                  "wordnet"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -696,12 +1225,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert dict.cc file to StarDict format",
+                "homepage": null,
                 "id": 557104182,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-10T21:36:49Z",
+                "open_issues": 0,
                 "owner": "Linus789",
                 "repo": "dictcc-stardict",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dictcc",
+                  "stardict"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -712,12 +1249,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language files for WordDumb",
+                "homepage": null,
                 "id": 527140841,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T03:35:32Z",
+                "open_issues": 0,
                 "owner": "xxyzz",
                 "repo": "Proficiency",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "dictionary",
+                  "kaikki",
+                  "language-learning",
+                  "python",
+                  "wiktionary"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -735,12 +1283,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+                "homepage": "https://libretranslate.com",
                 "id": 322921248,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T22:47:34Z",
+                "open_issues": 124,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16150
+                "stars": 16152,
+                "topics": [
+                  "api",
+                  "machine",
+                  "translate",
+                  "translation",
+                  "translator"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -751,12 +1310,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Neural Machine Translation and (Large) Language Models in PyTorch",
+                "homepage": "https://opennmt.net/",
                 "id": 82841862,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-14T17:32:07Z",
+                "open_issues": 23,
                 "owner": "OpenNMT",
                 "repo": "OpenNMT-py",
-                "stars": 7013
+                "stars": 7013,
+                "topics": [
+                  "deep-learning",
+                  "language-model",
+                  "llms",
+                  "machine-translation",
+                  "neural-machine-translation",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -767,12 +1338,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source offline translation library written in Python",
+                "homepage": "https://www.argosopentech.com",
                 "id": 253849484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-08T12:09:57Z",
+                "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6407
+                "stars": 6408,
+                "topics": [
+                  "language-models",
+                  "linux",
+                  "machine-translation",
+                  "nlp",
+                  "open-source",
+                  "python",
+                  "transformers",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -790,12 +1375,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+                "homepage": "http://coqui.ai",
                 "id": 265612440,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2024-08-16T12:07:14Z",
+                "open_issues": 2,
                 "owner": "coqui-ai",
                 "repo": "TTS",
-                "stars": 45967
+                "stars": 45965,
+                "topics": [
+                  "deep-learning",
+                  "glow-tts",
+                  "hifigan",
+                  "melgan",
+                  "multi-speaker-tts",
+                  "python",
+                  "pytorch",
+                  "speaker-encoder",
+                  "speaker-encodings",
+                  "speech",
+                  "speech-synthesis",
+                  "tacotron",
+                  "text-to-speech",
+                  "tts",
+                  "tts-model",
+                  "vocoder",
+                  "voice-cloning",
+                  "voice-conversion",
+                  "voice-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -806,12 +1416,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+                "homepage": "https://pypi.org/project/edge-tts/",
                 "id": 366146447,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-22T19:58:31Z",
+                "open_issues": 4,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11813
+                "stars": 11813,
+                "topics": [
+                  "speech-synthesis",
+                  "text-to-speech",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -829,12 +1448,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+                "homepage": "https://spacy.io",
                 "id": 21467110,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:26:10Z",
+                "open_issues": 236,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33860
+                "stars": 33860,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "cython",
+                  "data-science",
+                  "deep-learning",
+                  "entity-linking",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "neural-network",
+                  "neural-networks",
+                  "nlp",
+                  "nlp-library",
+                  "python",
+                  "spacy",
+                  "text-classification",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -852,12 +1494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+                "homepage": null,
                 "id": 537603333,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-28T20:18:29Z",
+                "open_issues": 136,
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 108079
+                "stars": 108089,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -868,12 +1515,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of OpenAI's Whisper model in C/C++",
+                "homepage": null,
                 "id": 541269386,
                 "language": "C++",
-                "last_commit": "2026-08-25T13:11:32Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:28:05Z",
+                "open_issues": 1238,
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53260
+                "stars": 53262,
+                "topics": [
+                  "inference",
+                  "openai",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "transformer",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -891,12 +1550,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable Diffusion web UI",
+                "homepage": null,
                 "id": 527591471,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
+                "open_issues": 2501,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164702
+                "stars": 164711,
+                "topics": [
+                  "ai",
+                  "ai-art",
+                  "deep-learning",
+                  "diffusion",
+                  "gradio",
+                  "image-generation",
+                  "image2image",
+                  "img2img",
+                  "pytorch",
+                  "stable-diffusion",
+                  "text2image",
+                  "torch",
+                  "txt2img",
+                  "unstable",
+                  "upscaling",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -907,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A latent text-to-image diffusion model",
+                "homepage": "https://ommer-lab.com/research/latent-diffusion-models/",
                 "id": 523379232,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-18T01:53:49Z",
+                "open_issues": 618,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73356
+                "stars": 73356,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -923,12 +1609,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "stable diffusion webui colab",
+                "homepage": null,
                 "id": 545814405,
                 "language": "Jupyter Notebook",
+                "license": "Unlicense",
                 "last_commit": "2025-12-16T05:49:10Z",
+                "open_issues": 37,
                 "owner": "camenduru",
                 "repo": "stable-diffusion-webui-colab",
-                "stars": 15912
+                "stars": 15913,
+                "topics": [
+                  "ai",
+                  "ai-art",
+                  "colab",
+                  "colab-notebook",
+                  "colaboratory",
+                  "deep-learning",
+                  "dreambooth",
+                  "gradio",
+                  "image-generation",
+                  "img2img",
+                  "lora",
+                  "pytorch",
+                  "stable-diffusion",
+                  "stable-diffusion-web-ui",
+                  "stable-diffusion-webui",
+                  "t2v",
+                  "text2video",
+                  "texttovideo",
+                  "txt2img"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             },
@@ -939,12 +1650,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository of models, textual inversions, and more",
+                "homepage": "https://civitai.com",
                 "id": 549830413,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T21:11:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:40:30Z",
+                "open_issues": 197,
                 "owner": "civitai",
                 "repo": "civitai",
-                "stars": 7240
+                "stars": 7240,
+                "topics": [
+                  "ai",
+                  "social-network",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -962,12 +1682,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source online reverse dictionary.",
+                "homepage": "https://wantwords.net/",
                 "id": 301421364,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-23T11:52:43Z",
+                "open_issues": 29,
                 "owner": "thunlp",
                 "repo": "WantWords",
-                "stars": 7097
+                "stars": 7097,
+                "topics": [
+                  "natural-language-processing",
+                  "nlp",
+                  "reverse-dictionary",
+                  "word"
+                ]
               },
               "first_seen": "2026-08-28T21:16:55.500Z"
             }
@@ -989,12 +1719,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
+            "homepage": null,
             "id": 22130396,
             "language": "TeX",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-26T14:45:29Z",
+            "open_issues": 2,
             "owner": "RichardLitt",
             "repo": "low-resource-languages",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "endangered-languages",
+              "human-language",
+              "language-documentation",
+              "language-learning",
+              "language-resources",
+              "list",
+              "low-resource-languages",
+              "lrls",
+              "minority-language",
+              "natural-language",
+              "natural-language-processing",
+              "nlp",
+              "resourced-languages"
+            ]
           },
           "first_seen": "2026-08-28T21:16:55.500Z"
         },
@@ -1005,12 +1756,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Human Language Learning Resources",
+            "homepage": null,
             "id": 179896036,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-03-03T15:16:30Z",
+            "open_issues": 3,
             "owner": "tigertv",
             "repo": "language-learning",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "chinese-language",
+              "german",
+              "german-language",
+              "human-language",
+              "japanese",
+              "japanese-language",
+              "japanese-study",
+              "langs",
+              "language-learning",
+              "languages",
+              "learn-language",
+              "learning-chinese",
+              "learning-english",
+              "learning-italian",
+              "learning-japanese",
+              "learning-languages",
+              "learning-resources",
+              "learning-spanish",
+              "polyglot",
+              "spanish-language"
+            ]
           },
           "first_seen": "2026-08-28T21:16:55.500Z"
         }
@@ -1019,15 +1796,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:16:55.500Z",
+    "last_updated": "2026-08-29T04:50:57.909Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazing projects that help you learn languages.",
+      "homepage": null,
       "id": 584945868,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-10-06T19:13:46Z",
+      "open_issues": 32,
       "owner": "Vuizur",
       "repo": "awesome-language-learning",
-      "stars": 200
+      "stars": 200,
+      "topics": [
+        "anki",
+        "awesome",
+        "awesome-list",
+        "dictionaries",
+        "dictionary",
+        "language-learning",
+        "learn-languages",
+        "learning-resources",
+        "vocabulary-builder"
+      ]
     },
     "original_repository_sha": "e6e9d4b182a3b7b6cdd258caceb969abfc0238ec",
     "enhanced_repository": "enhansome/enhansome-language-learning",
