@@ -30,9 +30,9 @@ A curated list of amazing projects that help you learn languages.
 
 ### Dictionaries
 
-* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) ⭐ 976 | 🐛 9 | 🌐 Python | 📅 2026-09-25 - 14 monolingual dictionaries extracted from Wiktionary in several languages.
+* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) ⭐ 976 | 🐛 7 | 🌐 Python | 📅 2026-09-28 - 14 monolingual dictionaries extracted from Wiktionary in several languages.
 * [dictionariez](https://github.com/pnlpal/dictionariez) ⭐ 674 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-18 - A browser extension to look up words on web pages.
-* [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) ⭐ 198 | 🐛 12 | 📅 2023-05-19 - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
+* [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) ⭐ 200 | 🐛 12 | 📅 2023-05-19 - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
 * [wikdict-gen](https://github.com/karlb/wikdict-gen) ⭐ 66 | 🐛 5 | 🌐 Python | 📅 2026-06-25 - For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair.
 
 ### Chatbots
@@ -49,15 +49,15 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Reader Programs or extensions
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 29,949 | 🐛 1,364 | 🌐 Lua | 📅 2026-09-27 - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
-* [WordDumb](https://github.com/xxyzz/WordDumb) ⭐ 533 | 🐛 2 | 🌐 Python | 📅 2026-08-28 - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
+* [KOReader](https://github.com/koreader/koreader) ⭐ 29,981 | 🐛 1,363 | 🌐 Lua | 📅 2026-09-28 - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
+* [WordDumb](https://github.com/xxyzz/WordDumb) ⭐ 534 | 🐛 2 | 🌐 Python | 📅 2026-08-28 - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
 * [fluentcards](https://github.com/katspaugh/fluentcards) ⭐ 64 | 🐛 4 | 🌐 JavaScript | 📅 2024-02-11 - A website that allows you to turn your kindle lookups into Anki flashcards
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
 
 ### Anki (Flashcards)
 
-* [AnkiDroid](https://github.com/ankidroid/Anki-Android) ⭐ 11,869 | 🐛 384 | 🌐 Kotlin | 📅 2026-09-27 - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
-* [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) ⭐ 4,078 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-14 - An optimized spaced repetition algorithm that should minimize review time.
+* [AnkiDroid](https://github.com/ankidroid/Anki-Android) ⭐ 11,873 | 🐛 382 | 🌐 Kotlin | 📅 2026-09-28 - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
+* [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) ⭐ 4,081 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-08-14 - An optimized spaced repetition algorithm that should minimize review time.
 * [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) ⭐ 541 | 🐛 32 | 🌐 Python | 📅 2025-08-15 - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
 * [vocage](https://github.com/proycon/vocage) ⚠️ Archived - A spaced repetition program in the terminal
 * [ankigenbot](https://github.com/damaru2/ankigenbot) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2026-05-24 - A telegram bot that automatically creates Anki flashcards for words you send to it.
@@ -73,16 +73,16 @@ These applications allow you to read texts with an integrated system to look up 
 ### Language Learning Games
 
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) ⚠️ Archived - An open-source Duolingo-like game.
-* [Game2Text](https://github.com/mathewthe2/Game2Text) ⭐ 297 | 🐛 35 | 🌐 Python | 📅 2023-09-19 - A program that makes it easy to look up words in Visual Novels.
+* [Game2Text](https://github.com/mathewthe2/Game2Text) ⭐ 298 | 🐛 35 | 🌐 Python | 📅 2023-09-19 - A program that makes it easy to look up words in Visual Novels.
 
 ### Open Source Games (with a lot of text and translations)
 
-* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/tree/master) ⭐ 13,251 | 🐛 1,795 | 🌐 C++ | 📅 2026-09-27 - A zombie roguelike game with a huge amount of content.
-* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,325 | 🐛 126 | 🌐 Kotlin | 📅 2026-09-27 - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
-* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,303 | 🐛 400 | 🌐 C++ | 📅 2026-09-26 - A simulation game based upon Transport Tycoon Deluxe.
-* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,888 | 🐛 1,490 | 🌐 C++ | 📅 2026-09-27 - Turn based strategy game with a huge amount of content.
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,576 | 🐛 7 | 🌐 Java | 📅 2026-09-09 - Very polished roguelike with pixel graphics and desktop + mobile support.
-* [Widelands](https://github.com/widelands/widelands) ⭐ 3,069 | 🐛 567 | 🌐 C++ | 📅 2026-09-26 - A strategy game inspired by Settlers 2.
+* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/tree/master) ⭐ 13,259 | 🐛 1,796 | 🌐 C++ | 📅 2026-09-28 - A zombie roguelike game with a huge amount of content.
+* [Unciv](https://github.com/yairm210/Unciv) ⭐ 11,355 | 🐛 131 | 🌐 Kotlin | 📅 2026-09-27 - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
+* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,306 | 🐛 398 | 🌐 C++ | 📅 2026-09-28 - A simulation game based upon Transport Tycoon Deluxe.
+* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,890 | 🐛 1,488 | 🌐 C++ | 📅 2026-09-28 - Turn based strategy game with a huge amount of content.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,578 | 🐛 7 | 🌐 Java | 📅 2026-09-09 - Very polished roguelike with pixel graphics and desktop + mobile support.
+* [Widelands](https://github.com/widelands/widelands) ⭐ 3,071 | 🐛 567 | 🌐 C++ | 📅 2026-09-28 - A strategy game inspired by Settlers 2.
 * [Pathos](https://github.com/callanh/pathos-official) ⭐ 197 | 🐛 1 | 🌐 C# | 📅 2026-08-07 - A roguelike game with desktop + mobile support inspired by Nethack.
 * [0 A.D.](https://play0ad.com/) - A strategy game inspired by Age Of Empires.
 * [Veloren](https://veloren.net/) - A voxel RPG inspired by Cube World and Minecraft.
@@ -104,9 +104,9 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Dictionary Data
 
-* [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) ⭐ 29,949 | 🐛 1,364 | 🌐 Lua | 📅 2026-09-27 - Direct links to hundreds of free Stardict dictionaries.
-* [pyglossary](https://github.com/ilius/pyglossary) ⭐ 2,686 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
-* [wiktextract](https://github.com/tatuylonen/wiktextract) ⭐ 1,277 | 🐛 36 | 🌐 Python | 📅 2026-09-24 - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
+* [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) ⭐ 29,981 | 🐛 1,363 | 🌐 Lua | 📅 2026-09-28 - Direct links to hundreds of free Stardict dictionaries.
+* [pyglossary](https://github.com/ilius/pyglossary) ⭐ 2,687 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
+* [wiktextract](https://github.com/tatuylonen/wiktextract) ⭐ 1,275 | 🐛 36 | 🌐 Python | 📅 2026-09-24 - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
 * [Ultimate Dictionary API](https://github.com/Vuizur/ultimate-dictionary-api) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2024-03-07 - A free dictionary API that supports all languages.
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) ⚠️ Archived - A REST interface for WordNet.
 * [dictcc-stardict](https://github.com/Linus789/dictcc-stardict) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-10 - Tool to convert the dict.cc dictionaries to stardict format.
@@ -114,40 +114,40 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Translation
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,861 | 🐛 128 | 🌐 Python | 📅 2026-09-03
-* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,018 | 🐛 23 | 🌐 Python | 📅 2025-10-14
-* [Argos-Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,512 | 🐛 162 | 🌐 Python | 📅 2026-08-08
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,880 | 🐛 126 | 🌐 Python | 📅 2026-09-28
+* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,017 | 🐛 23 | 🌐 Python | 📅 2025-10-14
+* [Argos-Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,516 | 🐛 162 | 🌐 Python | 📅 2026-08-08
 
 ### Text To Speech
 
-* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 46,074 | 🐛 2 | 🌐 Python | 📅 2024-08-16 - An entirely open source Python library running locally.
-* [edge-tts](https://github.com/rany2/edge-tts) ⭐ 12,098 | 🐛 3 | 🌐 Python | 📅 2026-03-22 - A Python library the uses the reverse engineered Text To Speech API of the Edge browser, producing extremely high quality output.
+* [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 46,075 | 🐛 3 | 🌐 Python | 📅 2024-08-16 - An entirely open source Python library running locally.
+* [edge-tts](https://github.com/rany2/edge-tts) ⭐ 12,111 | 🐛 3 | 🌐 Python | 📅 2026-03-22 - A Python library the uses the reverse engineered Text To Speech API of the Edge browser, producing extremely high quality output.
 
 ### NLP
 
-* [spaCy](https://github.com/explosion/spaCy) ⭐ 33,924 | 🐛 246 | 🌐 Python | 📅 2026-08-24 - A great library that can do everything: tokenization, lemmatization, named entity recognition, and much more.
+* [spaCy](https://github.com/explosion/spaCy) ⭐ 33,929 | 🐛 247 | 🌐 Python | 📅 2026-08-24 - A great library that can do everything: tokenization, lemmatization, named entity recognition, and much more.
 
 ### Speech To Text
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 109,645 | 🐛 154 | 🌐 Python | 📅 2026-08-31 - OpenAI's amazing project that delivers extremely good results (except for low-resource languages).
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,954 | 🐛 345 | 🌐 C++ | 📅 2026-09-24 - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.
+* [Whisper](https://github.com/openai/whisper) ⭐ 109,700 | 🐛 154 | 🌐 Python | 📅 2026-08-31 - OpenAI's amazing project that delivers extremely good results (except for low-resource languages).
+* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 53,990 | 🐛 347 | 🌐 C++ | 📅 2026-09-24 - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM.
 
 ### Image generation
 
 You need illustrations for your project? Look no further.
 
-* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,139 | 🐛 2,507 | 🌐 Python | 📅 2026-03-02 - This is what you should install if you want to use Stable Diffusion locally.
-* [Stable diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,481 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 - An amazing open source generator that made huge waves on its release.
-* [Camenduru's notebooks](https://github.com/camenduru/stable-diffusion-webui-colab) ⭐ 15,912 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-12-16 - A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card).
-* [civitai](https://github.com/civitai/civitai) ⭐ 7,257 | 🐛 224 | 🌐 TypeScript | 📅 2026-09-27 - A website that contains all kinds of models, optimized for different aesthetics.
+* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,144 | 🐛 2,507 | 🌐 Python | 📅 2026-03-02 - This is what you should install if you want to use Stable Diffusion locally.
+* [Stable diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,487 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18 - An amazing open source generator that made huge waves on its release.
+* [Camenduru's notebooks](https://github.com/camenduru/stable-diffusion-webui-colab) ⭐ 15,914 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2025-12-16 - A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card).
+* [civitai](https://github.com/civitai/civitai) ⭐ 7,259 | 🐛 231 | 🌐 TypeScript | 📅 2026-09-28 - A website that contains all kinds of models, optimized for different aesthetics.
 
 ### Other Great Projects
 
-* [WantWords](https://github.com/thunlp/WantWords) ⭐ 7,096 | 🐛 29 | 🌐 JavaScript | 📅 2022-02-23 - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).
+* [WantWords](https://github.com/thunlp/WantWords) ⭐ 7,097 | 🐛 29 | 🌐 JavaScript | 📅 2022-02-23 - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).
 
 ## Useful Resources
 
-* [Low resource languages](https://github.com/RichardLitt/low-resource-languages) ⭐ 457 | 🐛 3 | 🌐 TeX | 📅 2026-06-26 - A Github repo containing many links to projects about low resource languages
+* [Low resource languages](https://github.com/RichardLitt/low-resource-languages) ⭐ 459 | 🐛 4 | 🌐 TeX | 📅 2026-06-26 - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) ⭐ 134 | 🐛 5 | 📅 2023-03-03 - A Github repo with many links to language learning resources
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 
@@ -157,4 +157,4 @@ If you have ideas about what to add or see some description that is inaccurate o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
